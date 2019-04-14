@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ningg.top
+title: DXXXX
 ---
 
 <div class="index-content blog">
