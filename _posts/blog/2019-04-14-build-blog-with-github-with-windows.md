@@ -115,7 +115,7 @@ git push origin master
 
 ### 附录 A：部分内容，修改
 
-关于采用的 `ningg.github.io` 的 jekyll 主题，如何修改 About 页面内容呢？
+关于采用的 jekyll 主题，如何修改 About 页面内容呢？
 
 * 在 `about` 目录下， 修改 `index.md` 页面即可。
 
